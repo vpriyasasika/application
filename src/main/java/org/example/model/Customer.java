@@ -69,4 +69,4 @@ public class Customer {
                 ", address='" + address + '\'' +
                 '}';
     }
-}s
+}
