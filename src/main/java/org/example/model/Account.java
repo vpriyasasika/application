@@ -60,5 +60,6 @@ public class Account {
                 ", balance=" + balance +
                 ", customer=" + customer +
                 '}';
+        System.out.println("Testing Git workflow");
     }
 }
